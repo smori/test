@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 story.txt
+=======
+story.txt
+>>>>>>> 355d60b46ffdb47c4026ee76e1486b79681c61c4
 Edit!
